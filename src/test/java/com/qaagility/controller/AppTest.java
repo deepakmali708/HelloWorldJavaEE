@@ -27,7 +27,7 @@ Calculator myCalc = new Calculator();
       }
 
 	@Test	
-      public void testCalc() {
+      public void testCalc2() {
 	
 	
 	Calculator testcaladd = new Calculator();
