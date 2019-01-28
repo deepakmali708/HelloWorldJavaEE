@@ -26,4 +26,13 @@ Calculator myCalc = new Calculator();
         assertEquals("Result", 9, myCalc.add(3,6));
       }
 
+	@Test	
+      public void testCalc() {
+	
+	
+	Calculator testcaladd = new Calculator();
+	assertEquals(testcaladd.add(3,6),9);
+        
+      }
+
     }
