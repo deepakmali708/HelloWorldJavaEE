@@ -18,10 +18,10 @@ public class CalcTest {
         System.out.println("fast-updated");
       }
 
-	@Test	
+	/*@Test	
       public void testCalc() {
         assertEquals("Result", 9, 9);
-      }
+      }*/
 
 	@Test	
       public void testCalc1() {
